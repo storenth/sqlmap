@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 #Copyright (c) 2004, Carey Evans <careye@spamcop.net>
 #All rights reserved.

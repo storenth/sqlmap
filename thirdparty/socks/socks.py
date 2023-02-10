@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """SocksiPy - Python SOCKS module.
 Version 1.00

@@ -13,7 +13,7 @@ TMP_DIR=/tmp/pypi
 mkdir $TMP_DIR
 cd $TMP_DIR
 cat > $TMP_DIR/setup.py << EOF
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Copyright (c) 2006-2023 sqlmap developers (https://sqlmap.org/)
@@ -64,7 +64,7 @@ unzip sqlmap.zip
 rm sqlmap.zip
 mv "sqlmap-$VERSION" sqlmap
 cat > sqlmap/__init__.py << EOF
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Copyright (c) 2006-2023 sqlmap developers (https://sqlmap.org/)

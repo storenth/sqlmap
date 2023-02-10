@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 02/2006 Will Holcomb <wholcomb@gmail.com>

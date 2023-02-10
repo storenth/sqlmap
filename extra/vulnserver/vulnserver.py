@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 vulnserver.py - Trivial SQLi vulnerable HTTP server (Note: for testing purposes)
